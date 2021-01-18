@@ -1,0 +1,3 @@
+C:/Users/Asia/Desktop/Old/OOP/KeomanivongHW4/cmake-build-debug/CMakeFiles/KeomanivongHW4.dir
+C:/Users/Asia/Desktop/Old/OOP/KeomanivongHW4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asia/Desktop/Old/OOP/KeomanivongHW4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
